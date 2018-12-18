@@ -2,7 +2,7 @@ const https = require('https');
 
 let dir = {
     hostname: 'api.github.com',
-    path: '/users/Lassen-Southworks',
+    path: '/users/Nkrlz',
     method: 'GET',
     headers: {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0; Waterfox) Gecko/20100101 Firefox/56.2.3'}
 }
